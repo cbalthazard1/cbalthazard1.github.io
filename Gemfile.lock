@@ -11,6 +11,9 @@ GEM
     eventmachine (1.2.7)
     ffi (1.15.5)
     forwardable-extended (2.6.0)
+    garth-jekyll-theme (1.0.5)
+      jekyll (>= 3.6, < 5.0)
+      jekyll-paginate (~> 1.1)
     google-protobuf (3.24.0-x86_64-darwin)
     http_parser.rb (0.8.0)
     i18n (1.14.1)
@@ -33,6 +36,7 @@ GEM
       webrick (~> 1.7)
     jekyll-feed (0.17.0)
       jekyll (>= 3.7, < 5.0)
+    jekyll-paginate (1.1.0)
     jekyll-sass-converter (3.0.0)
       sass-embedded (~> 1.54)
     jekyll-seo-tag (2.8.0)
@@ -70,6 +74,7 @@ PLATFORMS
   x86_64-darwin-20
 
 DEPENDENCIES
+  garth-jekyll-theme
   jekyll
   jekyll-feed
   jekyll-seo-tag

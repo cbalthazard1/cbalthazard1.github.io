@@ -1,5 +1,11 @@
 *.gem
 *.rbc
+_site/
+.DS_Store
+assets/.DS_Store
+assets/images/.DS_Store
+.sass-cache/
+.jekyll-metadata
 /.config
 /coverage/
 /InstalledFiles
