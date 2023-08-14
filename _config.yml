@@ -44,7 +44,7 @@ collections:
   posts:
     title: Blog # Needed for Siteleaf
     output: true
-    description: "A mix of software engineering and data-driven posts" # The post list page content
+    description: "WIP: Getting the site set up for now" # The post list page content
 
 # 6. Jekyll collections settings
 defaults:
