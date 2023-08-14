@@ -3,7 +3,7 @@
 source "https://rubygems.org"
 
 gem "jekyll"
-# gem "rails"
+gem "garth-jekyll-theme"
 
 group :jekyll_plugins do
   gem 'jekyll-sitemap'
