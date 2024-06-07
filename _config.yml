@@ -45,7 +45,7 @@ collections:
   posts:
     title: Blog # Needed for Siteleaf
     output: true
-    description: "WIP: Getting the site set up for now" # The post list page content
+    description: "Going live in June 2024!" # The post list page content
 
 # 6. Jekyll collections settings
 defaults:
@@ -64,7 +64,7 @@ defaults:
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
-title: "Chris Balthazard's blog" # Site name or title
+title: "Chris Balthazard" # Site name or title
 logo: "/assets/images/logo.png" # Site logo
 favicon: "/assets/images/favicon.ico" # Uncomment to add custom favicon, or leave as is to use site logo
 description: "Chris Balthazard's blog" # Site description and default description
