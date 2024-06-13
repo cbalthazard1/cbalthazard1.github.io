@@ -1,10 +1,10 @@
 // Colours
+$white: #fff;
 $bodyColour: #1E1C15; // text body
 $headingColour: darken($bodyColour, 5%); // overall page heading
 $linkColour: $bodyColour; // blog titles (purple up top is #6809A6)
 $hoverColour: #6809A6;
 $captionColour: lighten($linkColour, 10%);
-$white: #fff;
 
-$backgroundColour: #CAEFCB;
+$backgroundColour: $white;
 $codeBackgroundColour: darken($backgroundColour, 5%);

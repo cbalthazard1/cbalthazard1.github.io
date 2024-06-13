@@ -9,8 +9,10 @@ is here yet, so I'll do a Q&A with... myself.
 ###### Why set up your own website at all?
 
 While I could just post on Twitter or Facebook, I wanted to (in concept) hearken back to a more decentralized web, and (in practice) have
-substantial creative control over how the site looks. Plus, actually going through the steps of actually setting up a site seemed fun. And
-how long was `balthazard.dev` going to stay available?? Had to snap that up.
+substantial creative control over how the site looks. Plus, actually going through the steps of setting up a site seemed fun. And how long
+was `balthazard.dev` going to stay available?? Had to snap that up.
+
+<!--more-->
 
 ###### What are you using to run the site?
 
