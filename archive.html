@@ -1,0 +1,17 @@
+---
+title: Archive
+---
+
+{% for category in site.categories %}
+  <h3>{{ category[0] }}</h3>
+  <style type="text/css">
+    ul {
+      padding-left: 2rem;
+    }
+  </style>
+  <ul>
+    {% for post in category[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
