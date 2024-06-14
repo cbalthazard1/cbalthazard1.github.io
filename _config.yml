@@ -69,5 +69,6 @@ logo: "/assets/images/logo.png" # Site logo
 favicon: "/assets/images/favicon.ico" # Uncomment to add custom favicon, or leave as is to use site logo
 description: "Chris Balthazard's blog" # Site description and default description
 url: "https://balthazard.dev" # Site url
+google_analytics: "G-GMK1V6W7TS"
 baseurl: ""
 lang: en-GB
