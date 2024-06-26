@@ -1,6 +1,7 @@
 ---
 layout: post
 category: Website
+title: "Site Setup"
 ---
 
 I'm not yet sure what shape this site is going to take, but let's kick things off with some decision points on the website itself. No one
@@ -19,8 +20,8 @@ was `balthazard.dev` going to stay available?? Had to snap that up.
 This was fun to figure out! I decided on a static site generator (Jekyll), deployed through github pages, and I got the domain through NameCheap.
 There were some small hurdles along the way (setting up packages in Sublime - needed a particular version of openssl since higher versions
 break package control). A couple helpful articles for setting things up with DNS records:\
-[Medium article on using a custom domain for GitHub pages](https://hossainkhan.medium.com/using-custom-domain-for-github-pages-86b303d3918a)\
-[GitHub article on managing a custom domain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-an-apex-domain)
+<span class="list  list--md one">[Medium article on using a custom domain for GitHub pages](https://hossainkhan.medium.com/using-custom-domain-for-github-pages-86b303d3918a)</span>
+<span class="list  list--md one">[GitHub article on managing a custom domain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-an-apex-domain)</span>
 
 ###### What are you going to post about?
 
