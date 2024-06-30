@@ -6,7 +6,7 @@ title: "API endpoints"
 
 I’ve accessed data via APIs fairly frequently, but have not dived into the details of how those calls work. So let’s do that here.
 
-APIs (Application Programming Interface) can generally be SOAP or REST (REpresentational State Transfer) - let’s focus on REST. There’s plenty to say about when and why to use APIs in making data available, but I want to look more at how to use them. What data needs to be sent (this article), and how do we structure that in Ruby (the next article)?
+APIs (Application Programming Interface) can generally be SOAP or REST (REpresentational State Transfer) - let’s focus on REST. There’s plenty to say about when and why to use APIs in making data available, but I want to look more at how to use them. What data needs to be sent (this article), and how do we structure that in Ruby ([the next article]((https://balthazard.dev/ruby/2024/06/27/API-endoints-in-ruby/)))?
 
 ###### Methods
 
@@ -43,3 +43,5 @@ The data used in creating, updating, or deleting a resource. Can also be used to
 [https://restfulapi.net/rest-put-vs-post/](https://restfulapi.net/rest-put-vs-post/) \
 [https://www.merge.dev/blog/rest-api-authentication](https://www.merge.dev/blog/rest-api-authentication) \
 [https://auth0.com/blog/why-migrate-from-api-keys-to-oauth2-access-tokens/](https://auth0.com/blog/why-migrate-from-api-keys-to-oauth2-access-tokens/)
+
+<strong>UPDATE 6/30/24: for implementation details in Ruby, [the next article is now available](https://balthazard.dev/ruby/2024/06/30/API-endoints-in-ruby/).</strong>
