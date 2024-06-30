@@ -82,7 +82,7 @@ result.body
 This works, and is a valid path to take! Alternatively, to go through a GET with params not included directly in the URI object, we can do the following:
 ```
 uri = URI.parse('https://api.the-odds-api.com/v4/sports')
-params = { apiKey: '481187b53f2da2bbfb4b9dde490d4b7f' }
+params = { apiKey: 'XXXXX' }
 uri.query = URI.encode_www_form(params)
 result = Net::HTTP.get_response(uri)
 result.body
