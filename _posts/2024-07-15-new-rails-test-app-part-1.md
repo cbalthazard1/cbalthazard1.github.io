@@ -6,7 +6,7 @@ title: "New Rails Test App (Part 1)"
 
 Time to set up a new rails app. I've mainly followed the steps [here](https://guides.rubyonrails.org/getting_started.html), but with an eye towards adding infrastructure to pull information about soccer league tables using jobs. I'll add some info about decision points here.
 
-You can see progress on this project [on GitHub](https://github.com/cbalthazard1/rta). I'm ignoring the deploy process for now and just running things locally.
+You can see progress on this project [on GitHub](https://github.com/cbalthazard1/rta). I'm just running things locally, so I can work more quickly and work off main.
 
 ###### DB Schema
 

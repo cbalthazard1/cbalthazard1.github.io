@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Ruby
-title: "API endpoints in Ruby"
+title: "API Endpoints in Ruby"
 ---
 
 In [the previous article](https://balthazard.dev/fundamentals/2024/06/26/API-endpoints/), we went through the main pieces of the API-calling puzzle. Now, we use those pieces to actually make some API calls (you can do this in irb).

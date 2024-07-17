@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Fundamentals
-title: "API endpoints"
+title: "API Endpoints"
 ---
 
 I’ve accessed data via APIs fairly frequently, but have not dived into the details of how those calls work. So let’s do that here.
