@@ -1,6 +1,6 @@
 ---
 layout: post
-category: Ruby
+category: "Ruby on Rails"
 title: "API Endpoints in Ruby"
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-category: Ruby
+category: "Ruby on Rails"
 title: "New Rails Test App (Part 2)"
 ---
 
